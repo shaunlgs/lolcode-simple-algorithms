@@ -12,3 +12,6 @@ REFERENCE: https://esolangs.org/wiki/LOLCODE.
 INSPIRATION: https://github.com/LeartS/loleuler.
 
 KITTEH HAZ FUN.
+
+## TODO
+- SUBSTRING OF YARN (STRING)
